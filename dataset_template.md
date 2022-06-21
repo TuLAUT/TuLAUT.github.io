@@ -7,7 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 [enter name](https://github.com/TuLAUT/data_template)
 
 ### Published Papers
-* [enter name](https://www.researchgate.net/project/TuLAUT-Machine-Learning-and-Domain-Knowledge)
+
+| Title    | Authors       | Year |
+|:-|:-|:-|
+| [Dummy Title](https://www.researchgate.net/project/TuLAUT-Machine-Learning-and-Domain-Knowledge) | names | 20XX |
+| [Dummy Title](https://www.researchgate.net/project/TuLAUT-Machine-Learning-and-Domain-Knowledge) | names | 20XX |
+| [Dummy Title](https://www.researchgate.net/project/TuLAUT-Machine-Learning-and-Domain-Knowledge) | names | 20XX |
 
 ### Contact
 name@domain.xyz
