@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: TuLAUT data
+description: Data sets from CPS for ML applications 
+author: TuLAUT
+locale: de_DE
