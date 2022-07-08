@@ -10,7 +10,7 @@ To improve the autonomy of Cyber-Physical Production Systems (CPPS), a growing n
 
 | Title    | Authors       | Year |
 |:-|:-|:-|
-|[Anomaly detection based on time series data from industrial automatic sewing machines](https://www.w3.org/Provider/Style/dummy.html) | Names | Year |
+|[Name](https://www.w3.org/Provider/Style/dummy.html) | Names | Year |
 
 
 ### Contact
