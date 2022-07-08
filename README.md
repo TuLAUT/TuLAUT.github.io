@@ -13,4 +13,5 @@ Here on this page we have a curated list of data sets which have been used and/o
 
 | Data Set      | Task       | Domain |
 |:-|:-|:-|
-| [Dummy Set](https://tulaut.github.io/ds_sewing_machine_lt) | anomaly detection (supervised)| textile industry |
+| [Sewing Machine Data](https://tulaut.github.io/ds_sewing_machine_lt) | anomaly detection (supervised)| textile industry |
+| [BeRfiPl](https://tulaut.github.io/ds_BeRfiPl) | diagnosis, planning, reconfiguration| process plants |
