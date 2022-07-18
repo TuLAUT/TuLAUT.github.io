@@ -21,7 +21,7 @@ anomalous = np.load('anomalous-206x86.npy')
 
 | Title    | Authors       | Year |
 |:-|:-|:-|
-|[Anomaly detection based on time series data from industrial automatic sewing machines](https://ieeexplore.ieee.org/Xplore/home.jsp) | Daniel Vranješ, Oliver Niggemann | 2022 |
+|[Anomaly detection based on time series data from industrial automatic sewing machines](https://www.researchgate.net/publication/360167122_Anomaly_detection_based_on_time_series_data_from_industrial_automatic_sewing_machines) | Daniel Vranješ, Oliver Niggemann | 2022 |
 
 
 ### Contact
