@@ -10,7 +10,7 @@ To improve the autonomy of Cyber-Physical Production Systems (CPPS), a growing n
 
 | Title    | Authors       | Year |
 |:-|:-|:-|
-|[An AI benchmark for Diagnosis, Reconfiguration & Planning](https://www.researchgate.net/publication/361420268_An_AI_benchmark_for_Diagnosis_Reconfiguration_Planning | Erhardt et al. | 2022 |
+|[An AI benchmark for Diagnosis, Reconfiguration & Planning](https://www.researchgate.net/publication/361420268_An_AI_benchmark_for_Diagnosis_Reconfiguration_Planning) | Erhardt et al. | 2022 |
 
 
 ### Contact
