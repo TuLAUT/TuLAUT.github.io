@@ -15,4 +15,3 @@ Here on this page we have a curated list of data sets which have been used and/o
 |:-|:-|:-|
 | [wdn-sa-benchmark](https://tulaut.github.io/ds_Water_Benchmark) | diagnosis, planning, reconfiguration | process plants |
 | [BeRfiPl](https://tulaut.github.io/ds_BeRfiPl) | diagnosis, planning, reconfiguration| process plants |
-| [Liersch 506 Stitchings](https://tulaut.github.io/ds_sewing_machine_lt) | anomaly detection (supervised)| textile industry |
