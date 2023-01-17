@@ -16,3 +16,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [wdn-sa-benchmark](https://tulaut.github.io/ds_Water_Benchmark) | diagnosis, planning, reconfiguration | process plants |
 | [BeRfiPl](https://tulaut.github.io/ds_BeRfiPl) | diagnosis, planning, reconfiguration| process plants |
 | [IndPenSim](https://tulaut.github.io/ds_IndPenSim) | anomaly detection, diagnosis| chemical plant |
+| [Pick and Place Unit](https://tulaut.github.io/ds_PPU) | - | manufacturing engineering (demonstrator) |
