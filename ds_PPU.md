@@ -6,7 +6,7 @@
 ### Link to GitHub repository with data
 | Data     | Task       | Domain |
 |:-|:-|:-|
-| [x-PPU](https://github.com/x-PPU) | - | - |
+| [x-PPU](https://github.com/x-PPU) | NA | NA |
 | [xPPU-AML-PPR](https://github.com/x-PPU/xPPU-AML-PPR) | Product-process-resource (PPR) focused AutomationML model of the xPPU including querying capability| manufacturing engineering (Demonstrator) |
 | [PLC TwinCat Projects](https://github.com/x-PPU/PLC_TwinCAT_Projects) | TwinCAT control software of the xPPU and its PLCopen XML exports in 23 evolution scenarios| manufacturing engineering (demonstrator) |
 | [Incremental Changes](https://github.com/x-PPU/Incremental_Changes) | TwinCAT control software of the xPPU and its PLCopen XML exports in 23 evolution scenarios| manufacturing engineering (demonstrator) |
