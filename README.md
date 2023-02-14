@@ -17,3 +17,9 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [BeRfiPl](https://tulaut.github.io/ds_BeRfiPl) | diagnosis, planning, reconfiguration| process plants |
 | [IndPenSim](https://tulaut.github.io/ds_IndPenSim) | anomaly detection, diagnosis| chemical plant |
 | [Pick and Place Unit](https://tulaut.github.io/ds_PPU) | - | manufacturing engineering (demonstrator) |
+| [Metal Classification](https://tulaut.github.io/ds_Metal_Class) | classification | material science |
+| [Smart Elevator](https://tulaut.github.io/ds_Smart_Elevator) | prediction | building automation |
+| [Smart Factory](https://tulaut.github.io/ds_Smart_Factory) | anomaly detection | process plant |
+| [PCB Production Prediction](https://tulaut.github.io/ds_PCB_Pred) | prediction | process plant |
+| [Electric Current Prediction](https://tulaut.github.io/ds_Elec_Curr_Pred) | prediction | production |
+| [Robotic Wrapping](https://tulaut.github.io/ds_Robo_Wrap) | partitioning, clustering | production configuration |
