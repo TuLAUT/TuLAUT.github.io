@@ -23,3 +23,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [PCB Production Prediction](https://tulaut.github.io/ds_PCB_Pred) | prediction | process plant |
 | [Electric Current Prediction](https://tulaut.github.io/ds_Elec_Curr_Pred) | prediction | production |
 | [Robotic Wrapping](https://tulaut.github.io/ds_Robo_Wrap) | partitioning, clustering | production configuration |
+| [Stuttgart Open Relay Degradation Dataset](https://tulaut.github.io/ds_SOReDD) | condition monitoring, transfer learning | electromechanical relays |
