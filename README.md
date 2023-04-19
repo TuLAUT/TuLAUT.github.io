@@ -29,3 +29,8 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [P&ID](https://tulaut.github.io/ds_PandID) | - | distillation plant |
 | [DN15 extraction column images](https://tulaut.github.io/ds_DN15) | - | chemistry |
 | [Flow Regime Classification](https://tulaut.github.io/ds_FlowRegime) | - | bioreactor |
+| [Vega shrink-wrapper component degradation](https://tulaut.github.io/ds_VegaShrinkWrapperComponentDegradation) | system degradation | production plant |
+| [Versatile Production System](https://tulaut.github.io/ds_VersatileProductionSystem) | model learning, anomaly detection | production plant |
+| [Broken bar in a three-phase induction motor](https://tulaut.github.io/ds_BrokenBarInThreePhaseInductionMotor) | anomaly detection | CPS |
+| [High Storage System Data for Energy Optimization](https://tulaut.github.io/ds_HighStorageSystemDataforEnergyOptimization) | anomaly detection | production plant |
+| [Ion Mill Etch Tool](https://tulaut.github.io/ds_PHMDataChallenge) | anomaly detection | production plant |
