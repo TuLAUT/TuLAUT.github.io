@@ -34,3 +34,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [Broken bar in a three-phase induction motor](https://tulaut.github.io/ds_BrokenBarInThreePhaseInductionMotor) | anomaly detection | CPS |
 | [High Storage System Data for Energy Optimization](https://tulaut.github.io/ds_HighStorageSystemDataforEnergyOptimization) | anomaly detection | production plant |
 | [Ion Mill Etch Tool](https://tulaut.github.io/ds_PHMDataChallenge) | anomaly detection | production plant |
+| [Cobot Anomaly](https://tulaut.github.io/ds_CobotAnomaly) | anomaly detection, diagnosis| colaborative robot |
