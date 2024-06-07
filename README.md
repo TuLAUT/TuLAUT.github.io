@@ -36,3 +36,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [Ion Mill Etch Tool](https://tulaut.github.io/ds_PHMDataChallenge) | anomaly detection | production plant |
 | [Cobot Anomaly](https://tulaut.github.io/ds_CobotAnomaly) | anomaly detection, diagnosis| colaborative robot |
 | [Proces Engineering Benchmarks](https://tulaut.github.io/ds_ProcessEngineeringAIBench) | fault handling | process engineering |
+| [Building Fault Detection and Diagnostics](https://tulaut.github.io/ds_MZVAV) | diagnosis | building ventilation |
