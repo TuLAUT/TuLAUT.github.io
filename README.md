@@ -37,3 +37,6 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [Cobot Anomaly](https://tulaut.github.io/ds_CobotAnomaly) | anomaly detection, diagnosis| colaborative robot |
 | [Proces Engineering Benchmarks](https://tulaut.github.io/ds_ProcessEngineeringAIBench) | fault handling | process engineering |
 | [Building Fault Detection and Diagnostics](https://tulaut.github.io/ds_MZVAV) | diagnosis | building ventilation |
+| [LiU-ICE](https://tulaut.github.io/ds_liuice) | diagnosis | car engine |
+| [SLIDe](https://tulaut.github.io/ds_slide) | diagnosis | steam line |
+| [LUMEN](https://tulaut.github.io/ds_lumen) | diagnosis | rocket engine |
