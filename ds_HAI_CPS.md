@@ -1,16 +1,20 @@
-## AI Benchmark for Diagnosis Reconfiguration and Planning
+## HAI-CPS: The Hamburg AI Benchmark for Cyber-Physical Production Systems
 
 ### Description
-To improve the autonomy of Cyber-Physical Production Systems (CPPS), a growing number of approaches in Artificial Intelligence (AI) is developed. However, implementations of such approaches are often validated on individual use-cases, offering little to no comparability. Though CPPS automation includes a variety of problem domains, existing benchmarks usually focus on single or partial problems. Additionally, they often neglect to test for AI-specific performance indicators, like asymptotic complexity scenarios or runtimes. We introduce a comprehensive benchmark, offering applicability on diagnosis, reconfiguration, and planning approaches from AI. The benchmark consists of a grid of datasets derived from 16 simulations of modular CPPS from process engineering, featuring multiple functionalities, complexities, and individual and superposed faults.
+The Hamburg AI Benchmark for Cyber-Physical Production Systems (HAI-CPPS) is a comprehensive dataset designed for evaluating AI models in the domains of anomaly detection, diagnosis, and reconfiguration for Cyber-Physical Production Systems (CPPS).
+
+HAI-CPPS is structured as a benchmark comprising ten different scenarios of a modular process plant, each demonstrating various functionalities and complexities. This enables you to comprehensively test your algorithms not only on a single use-case, but systematically across increasingly complex examples within the same domain. Each scenario can feature multiple anomalies occurring within a single module or across multiple modules of the CPS.
 
 ### Link to GitHub repository with data
-[AI Benchmark for Diagnosis Reconfiguration and Planning](https://github.com/imb-hsu/benchmark-for-diagnosis-reconf-planning)
+[HAI-CPPS-Benchmark](https://github.com/j-ehrhardt/hai-cps-benchmark)
+[IEEE-DataPort](https://ieee-dataport.org/open-access/hai-cpps-hamburg-ai-benchmark-cyber-physical-production-sytems)
 
 ### Published Papers
 
 | Title    | Authors       | Year |
 |:-|:-|:-|
 |[An AI benchmark for Diagnosis, Reconfiguration & Planning](https://www.researchgate.net/publication/361420268_An_AI_benchmark_for_Diagnosis_Reconfiguration_Planning) | Erhardt et al. | 2022 |
+|[HAI-CPPS: The Hamburg AI Benchmark for Cyber-Physical Production Sytems](https://dx.doi.org/10.21227/5ewb-cn40)| Ehrhardt et al. | 2025 |
 
 
 ### Contact
