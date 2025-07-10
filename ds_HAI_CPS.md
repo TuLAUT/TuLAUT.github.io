@@ -1,4 +1,4 @@
-## HAI-CPS: The Hamburg AI Benchmark for Cyber-Physical Production Systems
+## HAI-CPPS: The Hamburg AI Benchmark for Cyber-Physical Production Systems
 
 ### Description
 The Hamburg AI Benchmark for Cyber-Physical Production Systems (HAI-CPPS) is a comprehensive dataset designed for evaluating AI models in the domains of anomaly detection, diagnosis, and reconfiguration for Cyber-Physical Production Systems (CPPS).
@@ -6,8 +6,8 @@ The Hamburg AI Benchmark for Cyber-Physical Production Systems (HAI-CPPS) is a c
 HAI-CPPS is structured as a benchmark comprising ten different scenarios of a modular process plant, each demonstrating various functionalities and complexities. This enables you to comprehensively test your algorithms not only on a single use-case, but systematically across increasingly complex examples within the same domain. Each scenario can feature multiple anomalies occurring within a single module or across multiple modules of the CPS.
 
 ### Link to GitHub repository with data
-[HAI-CPPS-Benchmark](https://github.com/j-ehrhardt/hai-cps-benchmark)
-[IEEE-DataPort](https://ieee-dataport.org/open-access/hai-cpps-hamburg-ai-benchmark-cyber-physical-production-sytems)
+- [HAI-CPPS-Benchmark](https://github.com/j-ehrhardt/hai-cpps-benchmark)
+- [IEEE-DataPort](https://ieee-dataport.org/open-access/hai-cpps-hamburg-ai-benchmark-cyber-physical-production-sytems)
 
 ### Published Papers
 
