@@ -40,3 +40,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [LiU-ICE](https://tulaut.github.io/ds_liuice) | diagnosis | car engine |
 | [SLIDe](https://tulaut.github.io/ds_slide) | diagnosis | steam line |
 | [LUMEN](https://tulaut.github.io/ds_lumen) | diagnosis | rocket engine |
+| [NoBoom](https://tulaut.github.io/ds_NoBoom) | anomaly detection | chemical process data |
