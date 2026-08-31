@@ -24,7 +24,3 @@
 |[Researching Evolution in Industrial Plant Automation: Scenarios and Documentation of the Pick and Place Unit](https://mediatum.ub.tum.de/node?id=1208973) | Vogel-Heuser et al. | 2014 |
 |[Researching Evolution in Industrial Plant Automation: Scenarios and Documentation of the extended Pick and Place Unit](https://mediatum.ub.tum.de/node?id=1468863) | Vogel-Heuser et al. | 2018 |
 
-### Contact
-jan.wilch@tum.de
-
-fan.ji@tum.de

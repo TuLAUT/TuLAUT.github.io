@@ -23,6 +23,3 @@ Production: The production module produces popcorn by blowing heated air from be
 |:-|:-|:-|
 |[-](-) | - | - |
 
-
-### Contact
--

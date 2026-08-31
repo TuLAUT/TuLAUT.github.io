@@ -12,6 +12,3 @@ Image Data set for binary classification of a DN15 extraction column
 |:-|:-|:-|
 |[-](https://) | NA | - |
 
-
-### Contact
--

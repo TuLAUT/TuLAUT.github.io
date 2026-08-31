@@ -12,6 +12,3 @@ Data collected in the bioreactor to classify flow regimes
 |:-|:-|:-|
 |[-](https://) | NA | - |
 
-
-### Contact
--

@@ -21,6 +21,3 @@ Determine time remaining until next failure (i.e. predict remaining useful life)
 |:-|:-|:-|
 |[-](-) | - | - |
 
-
-### Contact
--

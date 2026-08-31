@@ -12,6 +12,3 @@ The data set contains electrical and mechanical signals from experiments on thre
 |:-|:-|:-|
 |[-](-) | - | - |
 
-
-### Contact
--

@@ -29,5 +29,3 @@ Furthermore you can test anomaly detection with the normal and anomaly files.
 |[Enable learning of Hybrid Timed Automata in Absence of Discrete Events through Self-Organizing Maps](https://www.hs-owl.de/init/veroeffentlichungen/publikationen/a/filteroff/3369/single.html) | Birgelen et al. | 2018 |
 |[A Novel Anomaly Detection Algorithm for Hybrid Production Systems based on Deep Learning and Timed Automata](https://www.hs-owl.de/init/veroeffentlichungen/publikationen/a/filteroff/2881/single.html) | Hranisavljevic et al. | 2016 |
 
-### Contact
--

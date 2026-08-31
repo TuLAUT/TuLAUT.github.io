@@ -12,6 +12,3 @@ The AI-Benchmark contains eight systems from process engineering which can be us
 |:-|:-|:-|
 |[An Ensemble of Benchmarks for the Evaluation of AI Methods for Fault Handling in CPPS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9557516&tag=1) | Balzereit et al. | 2021 |
 
-
-### Contact
--

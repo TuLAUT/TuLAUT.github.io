@@ -20,6 +20,3 @@ For more information (especially on the specific structure and contents of this 
 |:-|:-|:-|
 |[Stuttgart Open Relay Degradation Dataset (SOReDD)](https://doi.org/10.18419/darus-2785/101) | Maschler et al. | 2022 |
 
-
-### Contact
-https://orcid.org/0000-0001-6539-3173

@@ -21,6 +21,3 @@ week or weather data).
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

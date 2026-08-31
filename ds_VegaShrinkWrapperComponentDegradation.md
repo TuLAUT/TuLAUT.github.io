@@ -20,6 +20,3 @@ Monitoring the cutting blades degradation will increase the machines reliability
 |:-|:-|:-|
 |[Self-Organizing Maps for Anomaly Localization and Predictive Maintenance in Cyber-Physical Production Systems](https://www.sciencedirect.com/science/article/pii/S221282711830307X) | Birgelen et al. | 2018 |
 
-
-### Contact
--

@@ -22,6 +22,3 @@ tion on the basis of the PGNAA-spectrum is the aim of the challenge.
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

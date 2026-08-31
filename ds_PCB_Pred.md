@@ -18,6 +18,3 @@ file with the filled gaps must be submitted.
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

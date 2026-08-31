@@ -14,6 +14,3 @@ system and a reconfigurable production system.
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

@@ -16,6 +16,3 @@ motivation is to model the system behavior using data of the machine and additio
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

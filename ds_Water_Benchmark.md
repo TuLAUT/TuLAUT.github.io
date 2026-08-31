@@ -12,6 +12,3 @@ Structural Analysis is a powerful tool in fault diagnosis that abstracts the dyn
 |:-|:-|:-|
 |[Water network benchmarks for structural analysis algorithms in fault diagnosis](https://hal.archives-ouvertes.fr/hal-03773713) | Sztyber et al. | 2022 |
 
-
-### Contact
-anna.sztyber@pw.edu.pl

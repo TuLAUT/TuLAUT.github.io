@@ -20,6 +20,3 @@ the following information
 |:-|:-|:-|
 |[-]() | - | - |
 
-
-### Contact
--

@@ -12,6 +12,3 @@ The surrogate model of a prereformer reactor was loaded in a rigorous process si
 |:-|:-|:-|
 |[-](https://) | NA | - |
 
-
-### Contact
--

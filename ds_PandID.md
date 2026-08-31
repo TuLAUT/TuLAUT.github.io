@@ -12,6 +12,3 @@ DEXPI - P&IDs of different plants for use as training dataset for artificial neu
 |:-|:-|:-|
 |[-](https://) | NA | - |
 
-
-### Contact
--

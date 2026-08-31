@@ -12,6 +12,3 @@ The dataset contains data generated from several different cycles from the Batch
 |:-|:-|:-|
 |[A Benchmark Model to Generate Batch Process Data for Machine Learning Testing and Comparison](https://www.sciencedirect.com/science/article/abs/pii/B9780323958790500370) | Margarida et al. | 2022 |
 
-
-### Contact
--

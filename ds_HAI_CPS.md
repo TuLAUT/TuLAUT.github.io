@@ -16,6 +16,3 @@ HAI-CPPS is structured as a benchmark comprising ten different scenarios of a mo
 |[An AI benchmark for Diagnosis, Reconfiguration & Planning](https://www.researchgate.net/publication/361420268_An_AI_benchmark_for_Diagnosis_Reconfiguration_Planning) | Ehrhardt et al. | 2022 |
 |[HAI-CPPS: The Hamburg AI Benchmark for Cyber-Physical Production Sytems](https://dx.doi.org/10.21227/5ewb-cn40)| Ehrhardt et al. | 2025 |
 
-
-### Contact
-jonas.ehrhardt{@}hsu-hh.de
