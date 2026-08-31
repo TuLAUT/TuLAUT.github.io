@@ -41,3 +41,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [SLIDe](https://tulaut.github.io/ds_slide) | diagnosis | steam line |
 | [LUMEN](https://tulaut.github.io/ds_lumen) | diagnosis | rocket engine |
 | [NoBoom](https://tulaut.github.io/ds_NoBoom) | anomaly detection | chemical process data |
+| [Extended Tennessee Eastman Process](https://tulaut.github.io/ds_ExtendedTennesseeEastman) | diagnosis, anomaly detection | chemical plant |
