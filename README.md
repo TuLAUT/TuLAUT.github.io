@@ -42,3 +42,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [LUMEN](https://tulaut.github.io/ds_lumen) | diagnosis | rocket engine |
 | [NoBoom](https://tulaut.github.io/ds_NoBoom) | anomaly detection | chemical process data |
 | [Extended Tennessee Eastman Process](https://tulaut.github.io/ds_ExtendedTennesseeEastman) | diagnosis, anomaly detection | chemical plant |
+| [HSU TwinFlow](https://tulaut.github.io/ds_HSUTwinFlow) | anomaly detection, diagnosis | production plant |
