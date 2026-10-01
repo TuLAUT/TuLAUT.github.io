@@ -44,3 +44,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [Extended Tennessee Eastman Process](https://tulaut.github.io/ds_ExtendedTennesseeEastman) | diagnosis, anomaly detection | chemical plant |
 | [HSU TwinFlow](https://tulaut.github.io/ds_HSUTwinFlow) | anomaly detection, diagnosis | production plant |
 | [Avionic Main Fuel Pump](https://tulaut.github.io/ds_AvionicMainFuelPump) | anomaly detection, diagnosis, time series | aircraft fuel system |
+| [WeirNet](https://tulaut.github.io/ds_WeirNet) | surrogate modeling, generative models | hydraulic engineering |
