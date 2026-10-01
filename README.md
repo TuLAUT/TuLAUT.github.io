@@ -46,3 +46,4 @@ Here on this page we have a curated list of data sets which have been used and/o
 | [Avionic Main Fuel Pump](https://tulaut.github.io/ds_AvionicMainFuelPump) | anomaly detection, diagnosis, time series | aircraft fuel system |
 | [WeirNet](https://tulaut.github.io/ds_WeirNet) | surrogate models, generative models | hydraulic engineering |
 | [Synthetic Deep Drawing](https://tulaut.github.io/ds_SyntheticDeepDrawing) | surrogate models, generative models | manufacturing engineering |
+| [LayerWatch](https://tulaut.github.io/ds_LayerWatch) | defect detection, classification | additive manufacturing |
